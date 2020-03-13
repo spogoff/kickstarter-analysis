@@ -10,4 +10,5 @@ This project includes the following descriptive and analysis sheets:
 This project includes the following descriptive and analysis sheets:
 * Outcomes Based on Launch Date  
 * Outcomes Based on Goal
-![Outcomes Based on Goal](path/to/Outcomes Based on Goal.png)
+![Outcomes Based on Goal](Desktop/UCB_Data Analytics/Crowdfunding Analysis/Outcomes Based on Goal.png)
+![Outcome Based on Launch Date](Desktop/UCB_Data Analytics/Crowdfunding Analysis/Outcome Based on Launch Date.png)
