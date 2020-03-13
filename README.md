@@ -5,7 +5,6 @@ This project includes the following descriptive and analysis sheets:
 * Outcomes Based on Launch Date
 * Descriptive Statistics
 * Edinburgh Research
-# Module 1 Challenge
 ## Analyzing theater campaign performances based on their goals and launch dates
 This project includes the following descriptive and analysis sheets:
 * Outcomes Based on Launch Date  
